@@ -202,5 +202,6 @@ int main()
 <br>
 <img width="1284" height="435" alt="image" src="https://github.com/user-attachments/assets/76349263-5a1d-45bf-be9b-d6f9d09f3789" />
 <br>
+
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
